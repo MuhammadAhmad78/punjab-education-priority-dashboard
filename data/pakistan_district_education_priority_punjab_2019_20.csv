@@ -1,0 +1,37 @@
+Rank,Province,District,Literacy Rate (%),Female Literacy Rate (%),Gender Literacy Gap (pp),Out-of-School Rate (%),Primary Education Score,Priority Level
+1,Punjab,Rajanpur,42,28,14,48,96.7,Critical
+2,Punjab,Muzaffargarh,46,32,14,43,88,Critical
+3,Punjab,D.G. Khan,51,36,15,38,80.2,Critical
+4,Punjab,Rahim Yar Khan,47,37,10,41,78.4,Critical
+5,Punjab,Lodhran,53,42,11,40,73.8,High
+6,Punjab,Bahawalnagar,50,41,9,35,68,High
+7,Punjab,Chiniot,50,37,13,28,67.5,High
+8,Punjab,Bhakkar,53,39,14,26,64.5,High
+8,Punjab,Mianwali,58,42,16,27,64.5,High
+10,Punjab,Bahawalpur,49,41,8,32,64.1,High
+11,Punjab,Vehari,53,44,9,32,62.3,High
+12,Punjab,Pakpattan,51,42,9,28,59.9,High
+13,Punjab,Khanewal,60,50,10,30,55.8,High
+14,Punjab,Khushab,61,46,15,22,55,High
+15,Punjab,Multan,61,53,8,30,51.6,High
+16,Punjab,Sahiwal,60,52,8,27,49.4,Medium
+17,Punjab,Jhang,62,51,11,23,48.5,Medium
+18,Punjab,Okara,60,53,7,22,42.6,Medium
+19,Punjab,Layyah,65,52,13,16,42.1,Medium
+20,Punjab,Kasur,59,52,7,20,41.4,Medium
+21,Punjab,Nankana Sahib,66,60,6,21,34.6,Medium
+22,Punjab,Sargodha,67,59,8,18,34,Medium
+23,Punjab,Sheikhupura,63,59,4,21,33.9,Medium
+24,Punjab,Attock,69,58,11,13,32.1,Medium
+24,Punjab,Faisalabad,67,62,5,21,32.1,Medium
+26,Punjab,Hafizabad,66,60,6,18,31.6,Medium
+27,Punjab,Toba Tek Singh,68,61,7,18,31.5,Medium
+28,Punjab,Mandi Bahauddin,70,65,5,16,24.3,Lower
+29,Punjab,Chakwal,75,66,9,9,19.5,Lower
+30,Punjab,Jhelum,76,69,7,10,16.3,Lower
+31,Punjab,Lahore,77,74,3,16,14.9,Lower
+32,Punjab,Gujranwala,74,73,1,15,13.2,Lower
+33,Punjab,Gujrat,77,73,4,12,12.5,Lower
+34,Punjab,Rawalpindi,82,75,7,10,11,Lower
+35,Punjab,Narowal,76,72,4,9,10.2,Lower
+36,Punjab,Sialkot,79,78,1,11,4.7,Lower
