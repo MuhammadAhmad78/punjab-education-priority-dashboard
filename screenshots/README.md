@@ -1,4 +1,1 @@
-# Screenshots
-
-Add dashboard screenshots here (e.g. `dashboard_preview.png`, `map_view.png`).
-Reference them in the main README so visitors can preview the dashboard without opening Power BI.
+<img width="766" height="436" alt="image" src="https://github.com/user-attachments/assets/282fa9d6-33cd-4eee-922e-fa6b3346ce14" />
