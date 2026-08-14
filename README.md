@@ -55,8 +55,9 @@ See [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) for a full description 
 ## 🖥️ Power BI Dashboard
 
 The Power BI project file is included at [`powerbi/Punjab_District_Education_Priority_Index.pbix`](powerbi/Punjab_District_Education_Priority_Index.pbix).
+<img width="766" height="436" alt="image" src="https://github.com/user-attachments/assets/60de39be-4acd-438d-a0e9-d0b6a92e52ec" />
 
-> Add a screenshot of the dashboard to `screenshots/` before pushing, so visitors can preview it without opening Power BI — see the setup guide below.
+
 
 The dashboard includes:
 - A ranked table/matrix of all districts by Primary Education Score
